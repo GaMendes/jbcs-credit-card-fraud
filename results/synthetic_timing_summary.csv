@@ -1,0 +1,7 @@
+Dataset: synthetic
+algorithm,LIME Explainer Time (s),LIME Values Time (s),SHAP Explainer Time (s),SHAP Values Time (s)
+DecisionTree,1.9084,0.0215,0.0008,0.0276
+LinearSVC,1.9091,0.0232,0.0007,0.0259
+LogisticRegression,1.9754,0.0196,0.0018,0.0782
+MLP,1.9757,0.0236,0.0010,0.0576
+RandomForest,1.9246,0.1018,0.0010,1.0269

@@ -1,0 +1,2 @@
+algorithm,balanced_accuracy,sensitivity_recall,specificity,precision
+DecisionTree,0.590607,0.376713,0.804502,0.067559

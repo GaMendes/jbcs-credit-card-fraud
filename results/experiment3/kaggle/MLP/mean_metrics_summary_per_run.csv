@@ -1,0 +1,2 @@
+algorithm,balanced_accuracy,sensitivity_recall,specificity,precision
+MLP,0.896089,0.792703,0.999476,0.724548

@@ -1,0 +1,7 @@
+Dataset: kaggle
+algorithm,LIME Explainer Time (s),LIME Values Time (s),SHAP Explainer Time (s),SHAP Values Time (s)
+DecisionTree,3.4573,0.0445,0.0009,0.0169
+LinearSVC,3.2581,0.0453,0.0008,0.0136
+LogisticRegression,3.4126,0.0460,0.0016,0.1082
+MLP,3.8962,0.0555,0.0009,0.0448
+RandomForest,3.2458,0.1239,0.0010,0.4947

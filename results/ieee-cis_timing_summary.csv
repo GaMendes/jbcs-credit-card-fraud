@@ -1,0 +1,7 @@
+Dataset: ieee-cis
+algorithm,LIME Explainer Time (s),LIME Values Time (s),SHAP Explainer Time (s),SHAP Values Time (s)
+DecisionTree,4.0326,0.0296,0.0007,0.0214
+LinearSVC,4.0245,0.0334,0.0009,0.0178
+LogisticRegression,4.1457,0.0286,0.0010,0.1091
+MLP,4.0333,0.0304,0.0010,0.0306
+RandomForest,4.2196,0.4065,0.0010,1.7241

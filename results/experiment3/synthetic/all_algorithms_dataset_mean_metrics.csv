@@ -1,0 +1,6 @@
+algorithm,balanced_accuracy,sensitivity_recall,specificity,precision
+RandomForest,0.629115,0.258908,0.999322,0.441985
+LogisticRegression,0.824520,0.756008,0.893032,0.009321
+MLP,0.729269,0.468375,0.990163,0.058186
+LinearSVC,0.824371,0.749314,0.899429,0.009727
+DecisionTree,0.641959,0.300855,0.983064,0.021596

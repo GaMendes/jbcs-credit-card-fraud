@@ -1,0 +1,2 @@
+algorithm,balanced_accuracy,sensitivity_recall,specificity,precision
+LinearSVC,0.943636,0.906493,0.980778,0.075610
